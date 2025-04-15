@@ -13,7 +13,6 @@ Avaliar a performance de diferentes canais de marketing digital a partir de KPIs
 
 - Python
 - Pandas
-- Sea born
 - Matplotlib
 - Jupyter Notebook
 
